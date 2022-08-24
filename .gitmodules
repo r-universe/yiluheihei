@@ -8,3 +8,8 @@
 	url = https://github.com/yiluheihei/geneexpressionsignature
 	shallow = true
 	registered = true
+[submodule "microbiomeMarker"]
+	path = microbiomeMarker
+	url = https://github.com/yiluheihei/microbiomemarker
+	shallow = true
+	registered = true
