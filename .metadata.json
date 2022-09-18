@@ -1,8 +1,5 @@
 [
   {
     "package": "GeneExpressionSignature"
-  },
-  {
-    "package": "microbiomeMarker"
   }
 ]
