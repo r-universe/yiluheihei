@@ -4,5 +4,9 @@
   },
   {
     "package": "microbiomeMarker"
+  },
+  {
+    "package": "RevEcoR",
+    "oncran": true
   }
 ]
