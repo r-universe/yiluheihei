@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GeneExpressionSignature"]
 	path = GeneExpressionSignature
 	url = https://github.com/yiluheihei/geneexpressionsignature
-	shallow = true
-	registered = true
 [submodule "microbiomeMarker"]
 	path = microbiomeMarker
 	url = https://github.com/yiluheihei/microbiomemarker
-	shallow = true
-	registered = true
 [submodule "RevEcoR"]
 	path = RevEcoR
 	url = https://github.com/yiluheihei/revecor
-	shallow = true
-	registered = true
