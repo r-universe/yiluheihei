@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "GeneExpressionSignature"]
-	path = GeneExpressionSignature
-	url = https://github.com/yiluheihei/geneexpressionsignature
 [submodule "RevEcoR"]
 	path = RevEcoR
 	url = https://github.com/yiluheihei/revecor
-[submodule "microbiomeMarker"]
-	path = microbiomeMarker
-	url = https://github.com/yiluheihei/microbiomemarker
